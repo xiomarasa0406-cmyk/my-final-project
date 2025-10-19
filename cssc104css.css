@@ -1,0 +1,73 @@
+h1 {
+    color: #9606b9;
+    font-family: 'Arial Black', Gadget;
+    font-size: 60px;
+    text-shadow: 2px 2px 4px #f5a5ea;
+    text-align: center;
+}
+hr {
+    border: 2px solid #f5a5ea;
+    margin: 20px 0;
+  
+}
+
+h2 {
+    color: #9606b9;
+    font-family:'Arial Black', Gadget;
+    font-size: 40px;
+    text-shadow: 2px 2px 4px #f5a5ea;
+    text-align: center;
+}
+h3 {
+    color: #9606b9;
+    font-family: 'Arial Black', Gadget;
+    font-size: 20px;
+    text-shadow: 2px 2px 4px #f5a5ea;
+    text-align: center;
+}
+
+  * {
+    box-sizing: border-box;
+  }
+
+
+.navbar {
+  width: 100%;
+  background-color: #f385e8;
+  overflow: auto;
+}
+
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: rgb(74, 8, 94);
+  text-decoration: none;
+  font-size: 17px;
+  width: 25%;
+  text-align: center;
+}
+
+.navbar a:hover {
+  background-color: #ed15b0;
+}
+
+.navbar a.active {
+  background-color: #a55ff6;
+}
+
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}
+
+p{
+    font-family: 'Arial Black', Gadget;
+    color: #5c0672;
+    font-size: 20px;
+    text-shadow: 2px 2px 4px #ee2fd4;
+    text-align: center;
+}

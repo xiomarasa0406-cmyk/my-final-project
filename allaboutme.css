@@ -1,0 +1,50 @@
+body {
+    background-image: url('93de81b5de69cf684af95a6a11bf93d4.gif');
+    
+}
+h1 {
+    color: #e16aff;
+    text-align: center;
+    font-family: 'fantasy';
+    font-size: 57px;
+    text-shadow: 2px 2px 4px #ff92e2;
+
+}
+
+h2 {
+    color: #e16aff;
+    text-align: center;
+    font-family: 'fantasy';
+    font-size: 32px;
+    text-shadow: 2px 2px 4px #ff92e2;
+}
+
+hr {
+    border: 2px solid #fc2fe4;
+    margin: 20px 0;
+  
+}
+h3 {
+    color: #e16aff;
+    text-align: center;
+    font-family: 'fantasy';
+    font-size: 30px;
+    text-shadow: 2px 2px 4px #ff92e2;
+
+}   
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    border: #fc2fe4 5px solid;
+    float: center;
+}
+p {
+    color: #e16aff;
+    text-align: center;
+    font-family: 'fantasy';
+    font-size: 25px;
+    text-shadow: 2px 2px 4px #ff92e2;
+
+}
