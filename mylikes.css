@@ -32,14 +32,8 @@ h3 {
     text-shadow: 2px 2px 4px #ff92e2;
 
 }   
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 25%;
-    border: #fc2fe4 5px solid;
-    margin: 0 auto;
-}
+
+
 p {
     color: #e16aff;
     text-align: center;
@@ -48,11 +42,38 @@ p {
     text-shadow: 2px 2px 4px #ff92e2;
 
 }
+li {
+    color: #c209f0;
+    text-align: left;
+    font-family: 'fantasy';
+    font-size: 30px;
+    text-shadow: 2px 2px 4px #ff92e2;
 
- * {
-    box-sizing: border-box;
-  }
+}
 
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 10px solid #ee089a;
+  text-align: left;
+  padding: 13px;
+}
+
+tr:nth-child(even) {
+  background-color: #e16fe8;
+  color: #ede8f2;
+
+}
+a {
+    color: #c606c6;
+    font-family: 'fantasy';
+    font-size: 30px;
+    text-shadow: 2px 2px 4px #ff92e2;
+}
 
 .navbar {
   width: 100%;
