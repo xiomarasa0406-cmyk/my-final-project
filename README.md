@@ -38,20 +38,13 @@ For my “My Likes” page, I included all the things I enjoy like cooking, musi
         <li>Music</li>
         <li>Shopping</li>
         <li>Coloring</li>
-    </ul>I started with an <h2> tag for cooking and used a <ul> tag to list my favorite things. Then, I added a <table> showing some of the foods my family and I make, with pictures and the names underneath. At first, I had a little trouble figuring out how to make the table work, so I looked up tutorials on YouTube and different websites. It took some time, but once I figured it out, I was really happy with how it turned out.
+    </ul>I started with an <h2> tag for cooking and used a <ul> tag to list my favorite things. Then, I added a <table> showing some of the foods my family and I make, with pictures and the names underneath. At first, I had a little trouble figuring out how to make the table work, so I looked up tutorials on YouTube and different websites. It took some time, but once I figured it out, I was pleased with how it turned out.
 
 After finishing the cooking section, I added an <hr> tag and started on the music section. Here, I talked about what I like about music and how it makes me feel. I even added a link to my Spotify playlist:
 
 <div style="text-align: center;"> <a href="https://open.spotify.com/playlist/16cx0wEuLMlHBGmQJdI3Ef?si=yYEe62QSSay35_etMklytw">My Spotify Playlist</a> </div>
 
-I also created another <table> for some of my favorite songs, showing the title, artist, and a link where you can listen to them. Next, I worked on my shopping and coloring sections, explaining why I enjoy them and what makes them special to me. I finished the page with a button section that lets you click through to the different pages on my site. Overall, I really liked how everything came together in the end.
-
-
-
-
-
-
-
+I also created another <table> for some of my favorite songs, showing the title, artist, and a link to listen to each. Next, I worked on my shopping and coloring sections, explaining why I enjoy them and what makes them special to me. I finished the page with a button section that lets you click through to the different pages on my site. Overall, I really liked how everything came together in the end.
 
 Overall, I feel confident about the progress I’ve made so far. Each step has helped me learn more about web design, especially in areas like linking pages, styling with CSS, and organizing files correctly. I still have a few sections to finish, but the project is coming together nicely, and I’m proud of the improvements I’ve made along the way.
 
